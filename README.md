@@ -1,7 +1,8 @@
 # Philips CD-i 450 Power Adapter
 
-<img src="./Pics/01.jpg" width=600>
-<img src="./Pics/02.jpg" width=300><img src="./Pics/03.jpg" width=300>
+<img src="./Pics/01.jpg" width=800>
+
+<img src="./Pics/02.jpg" width=400><img src="./Pics/03.jpg" width=400>
 
 ------
 ## Rambling
