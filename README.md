@@ -51,7 +51,7 @@ Plug everything in and use the power switch on the CD-i itself to turn the power
 - 1705951 RJ45 Ethernet Jack, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/RJ45/Female/1705951/info.md)
 - J104A2C5VDC.40S General Purpose Relay, DPDT, 5V/3A - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/J104A2C5VDC.40S%20Relay/info.md)
 - M3x20mm hex screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
-- 3D Printed Case
+- 3D Printed Case - [Link](https://github.com/jeffqchen/Philips-CDi-450-Power-Adapter/tree/main/3D%20Print)
 
 **Optional Parts**
 - 1N4148W Diode (for possible extending lifespan of relay coil)
