@@ -69,8 +69,7 @@ Plug everything in and use the power switch on the CD-i itself to turn the power
 
 Print the parts as shown in the following pics, with support.
 
-<img src="./Pics/3dprint_shell.jpg" width=400>
-<img src="./Pics/3dprint_lid.jpg" width=400>
+<img src="./Pics/3dprint_shell.jpg" width=400><img src="./Pics/3dprint_lid.jpg" width=400>
 
 ------
 ## Assembly
