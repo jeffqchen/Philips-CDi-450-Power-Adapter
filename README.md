@@ -1,8 +1,6 @@
 # Philips CD-i 450 Power Adapter
 
-<img src="./Pics/01.jpg" width=800>
-
-<img src="./Pics/02.jpg" width=400><img src="./Pics/03.jpg" width=400>
+<img src="./Pics/cdi_title.jpg" width=800>
 
 ------
 ## Rambling
@@ -102,6 +100,8 @@ Drop in the top lid inside, fit one side in position first, then press and snap 
 This concludes the assembly.
 
 <img src="./Pics/01.jpg" width=600>
+
+<img src="./Pics/02.jpg" width=300><img src="./Pics/03.jpg" width=300>
 
 <img src="./Pics/final_led_off.jpg" width=300><img src="./Pics/final_led_on.jpg" width=300>
 
