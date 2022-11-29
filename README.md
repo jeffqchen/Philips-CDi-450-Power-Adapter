@@ -54,7 +54,7 @@ Plug everything in and use the power switch on the CD-i itself to turn the power
 - 3D Printed Case - [Link](https://github.com/jeffqchen/Philips-CDi-450-Power-Adapter/tree/main/3D%20Print)
 
 **Optional Parts**
-- 1N4148W Diode (for possible extending lifespan of relay coil)
+- 1N4148W Diode, SMD - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/1N4148W/info.md) (for possible extending lifespan of relay coil)
 - LEDs for power state indication
   - Two of each color, with their respective current limiting resistor (0805 size or smaller)
   - Typical LED forward voltage range from 2V to 3.2V. 100-150 Ohm resistors is a good choice.
