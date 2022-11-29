@@ -11,7 +11,7 @@ The Philips CD-i 450 has a weird PSU. It uses an RJ45 jack to connect to the con
 
 <img src="./Pics/cdi_psu.jpg" width=400>
 
-Everybody familiar with ethernet cables knows the plastic tab on an RJ45 plug will snap off sooner or later. Then the plug will become loose and start falling out of the jack. While it might not be that devastating on a network connection, it is unacceptable for a power connection. Not to mention that over the decades, some consoles will be separated from its original PSU, and replacements are expensive while supplies being limited.
+Everybody familiar with ethernet cables knows the plastic tab on an RJ45 plug will snap off sooner or later. Then the plug will become loose and start falling out of the jack. While it might not be that devastating on a network connection, it is unacceptable for a power connection. Not to mention that over the decades, some consoles were separated from their original PSU, and replacements are expensive while supplies being limited.
 
 ------
 ## Functionality
