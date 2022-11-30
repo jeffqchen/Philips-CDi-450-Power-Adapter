@@ -5,7 +5,7 @@
 ------
 ## Rambling
 
-The Philips CD-i 450/550 has a weird PSU called Type 20 PS 301 (20PS301, 22ER9156). It uses an RJ45 jack to connect to the console.
+The Philips CD-i 450/550 has a weird PSU (Type 20 PS 301/XX, 20PS301, 22ER9156). It uses an RJ45 jack to connect to the console.
 
 <img src="./Pics/cdi_psu.jpg" width=400>
 
