@@ -106,6 +106,13 @@ This concludes the assembly.
 <img src="./Pics/final_led_off.jpg" width=300><img src="./Pics/final_led_on.jpg" width=300>
 
 ------
+## Special Thanks
+
+Retrostuff
+- [Twitter](https://twitter.com/retrostuff_org)
+- [Website](https://retrostuff.org/)
+
+------
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
