@@ -108,9 +108,9 @@ This concludes the assembly.
 ------
 ## Special Thanks
 
-Retrostuff
-- [Twitter](https://twitter.com/retrostuff_org)
-- [Website](https://retrostuff.org/)
+- Retrostuff (for suggesting various technical details about the Philips CD-i)
+  - [Twitter](https://twitter.com/retrostuff_org)
+  - [Website](https://retrostuff.org/)
 
 ------
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
