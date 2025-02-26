@@ -12,6 +12,15 @@ The Philips CD-i 450/550 has a weird PSU (Type 20 PS 301/XX, 20PS301, 22ER9156).
 Everybody familiar with ethernet cables knows the plastic tab on an RJ45 plug will snap off sooner or later. Then the plug will become loose and start falling out of the jack. While it might not be that devastating on a network connection, it is unacceptable for a power connection. Not to mention that over the decades, some consoles were separated from their original PSU, and replacements are expensive while supplies being limited.
 
 ------
+## Alternative Solution You Can Buy - G2 PSU
+
+<img src="https://github.com/user-attachments/assets/6277eb98-74a5-40af-836e-0b514d19e72d" width=400>
+
+Zaxour designed a new replacement power supply that take a single power input and covers it to all the necessary power rails. I had the honor to design a shell for it.
+
+You can actually purchase the G2 PSU [here](https://ko-fi.com/s/8996431f0d).
+
+------
 ## Functionality
 
 ### Power Sources
