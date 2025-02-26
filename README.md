@@ -16,7 +16,7 @@ Everybody familiar with ethernet cables knows the plastic tab on an RJ45 plug wi
 
 <img src="https://github.com/user-attachments/assets/6277eb98-74a5-40af-836e-0b514d19e72d" width=400>
 
-Zaxour designed a new replacement power supply that take a single power input and converts it to all the necessary power rails. I had the honor to design a shell for it.
+Zaxour designed a new replacement power supply that takes a single power input and converts it to all the necessary power rails. I had the honor to design a shell for it.
 
 You can actually purchase the G2 PSU [here](https://ko-fi.com/s/8996431f0d).
 
